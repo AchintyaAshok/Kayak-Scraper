@@ -26,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/AchintyaAshok/Kayak-Scraper/issues"
   },
-  "homepage": "https://github.com/AchintyaAshok/Kayak-Scraper#readme"
+  "homepage": "https://github.com/AchintyaAshok/Kayak-Scraper#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "path": "^0.12.7",
+    "request": "^2.75.0"
+  }
 }
