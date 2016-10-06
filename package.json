@@ -1,0 +1,30 @@
+{
+  "name": "kayak-scraper",
+  "version": "1.0.0",
+  "description": "This is a library that you can use to get flight information from kayak.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchintyaAshok/Kayak-Scraper.git"
+  },
+  "keywords": [
+    "kayak",
+    "scraper",
+    "node",
+    "npm",
+    "library",
+    "opensource",
+    "flight",
+    "data",
+    "travel"
+  ],
+  "author": "AA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AchintyaAshok/Kayak-Scraper/issues"
+  },
+  "homepage": "https://github.com/AchintyaAshok/Kayak-Scraper#readme"
+}
