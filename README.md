@@ -8,7 +8,7 @@ npm install kayak-scraper
 
 ## Usage
 ```javascript
-var kayak = require('kayak');
-kayak.getTripDetails("JFK", "SFO", new Date(2016, 10, 18), new Date(2016, 10, 26));
+const kayak = require('kayak-scraper');
+kayak.getTripDetails("JFK", "SFO", new Date(2018, 6, 18), new Date(2018, 6, 26));
 ```
 This will get you cheapest flights from JFK to SFO between October 18th and October 26th, 2016.
